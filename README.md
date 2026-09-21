@@ -222,7 +222,7 @@ Pour ajouter un visuel lié au monde :
 1. Placez l'image dans `posters/world/`.
 2. Utilisez un nom de fichier explicite.
 3. Indiquez clairement la zone à laquelle l'image correspond.
-4. Vérifiez son affichage directement dans le monde VRChat.
+4. Vérifiez son affichage directement dans la map.
 
 Exemple :
 
@@ -260,7 +260,7 @@ Lors de la modification du projet :
 - gardez une structure de fichiers simple ;
 - évitez de modifier inutilement un preset déjà utilisé ;
 - créez un nouveau preset lorsqu'une nouvelle ambiance est nécessaire ;
-- testez les changements directement dans le monde VRChat ;
+- testez les changements directement dans la map ;
 - gardez les visuels de `posters/world/` correctement nommés.
 
 ---
@@ -280,16 +280,3 @@ Lors de la modification du projet :
 | `entrance_screens.png` | Visuels de l'entrée |
 | `spawn_screen.png` | Visuel du Spawn |
 
----
-
-## 🎧 The Lab Club
-
-**The Lab Club** est un club de lapdance conçu pour **VRChat**, avec un système de lumière permettant de changer rapidement d'ambiance ainsi que des visuels dédiés aux différentes zones du monde.
-
-Ce repository sert à centraliser les ressources nécessaires à la gestion et à l'évolution de ces éléments.
-
----
-
-## ⚠️ VRChat
-
-The Lab Club est un monde destiné à **VRChat**. Son contenu et son utilisation doivent respecter les règles et conditions d'utilisation de VRChat.
